@@ -1,9 +1,9 @@
 # Site settings
 title: "Phú Quốc Đảo"
 url-title: "Thiên Đảo"
-description: "Phú Quốc và nơi hẹn hò"
+description: "Phú Quốc và Đoàn Bình"
 paginate: 100
-url: "https://heathtechs.com"
+url: "https://newtabtheme.net"
 permalink: /:year/:month/:title/
 future: false
 defaults:

@@ -24,7 +24,7 @@ custom_excerpt: Chương trình biểu diễn nghệ thuật khai mạc Năm Du 
 
 – Đạo diễn dàn dựng: Dương Thảo.
 
-– Miễn phí vé vào cho tất cả quý du khách và người dân địa phương
+– Miễn phí vé vào cho tất cả quý du khách và người dân địa phương.
 
 Cùng khám phá công tác chuẩn bị cho buổi biểu diễn này nhé.
 
